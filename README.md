@@ -1,6 +1,6 @@
 # UV Package Manager 101
 
-A hands-on exploration of `uv` as a modern replacement for pip, focusing on dependency management and project workflow.
+A hands-on exploration of the `uv` package manager as a modern replacement for pip, focusing on dependency management and project workflow.
 
 ## Installation
 
